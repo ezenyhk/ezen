@@ -1,4 +1,5 @@
-package homework;
+package week02.homework01;
+
 public class Hw11 {
 	public static void main(String[] args) {
 		int[] fib = new int[10 + 1];

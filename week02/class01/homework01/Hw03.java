@@ -1,4 +1,5 @@
-package homework;
+package week02.homework01;
+
 public class Hw03 {
 	public static void main(String[] args) {
 		int total = 0;
