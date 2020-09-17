@@ -1,5 +1,4 @@
 package week02.homework01;
-
 public class Hw13 {
 	public static void main(String[] args) {
 		String value = "12o34";
@@ -12,7 +11,7 @@ public class Hw13 {
 			}
 
 		if (isNumber)
-			System.out.println(value + ": 숫자");
+			System.out.println(value + ": 숫자");	
 		else
 			System.out.println(value + ": 문자");
 	}
