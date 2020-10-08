@@ -1,0 +1,24 @@
+ol {
+	counter-reset: li;
+	list-style: none;
+}
+
+ol li::before {
+	padding: 0px 10px;
+	display: inline-block;
+	content: counter(li) ". ";
+	font-size: 2em;
+	counter-increment: li;
+	color: red;
+	border-right: 2px solid black;
+}
+
+li {
+	font-size: 1.5em;
+	color: blue;
+	margin: 10px 0px;
+}
+
+em {
+	font-weight: bold;
+}

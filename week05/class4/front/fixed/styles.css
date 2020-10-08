@@ -1,0 +1,13 @@
+p {
+	background-color: firebrick;
+	margin: 5px;
+	width: 200px;
+	height: 100px;
+}
+
+.class10 {
+	background-color: red;
+	position: fixed;
+	right: 0px;
+	top: 50%;
+}

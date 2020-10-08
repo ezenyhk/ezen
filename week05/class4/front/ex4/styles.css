@@ -1,0 +1,28 @@
+span {
+	margin: 50px 0px;
+	font-family: consolas;
+	width: 50px;
+	padding: 0px 20px;
+	padding-bottom: 50px;
+	padding-left: 40px;
+	background-color: orange;
+	border-radius: 25px 0px 0px 50px;
+	font-weight: 800;
+	font-size: 3em;
+}
+
+#color1 {
+	background-color: #CC6600;
+}
+
+#color2 {
+	background-color: #DD7711;
+}
+
+#color3 {
+	background-color: #EE8822;
+}
+
+#color4 {
+	background-color: #FF9933;
+}

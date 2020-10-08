@@ -1,0 +1,12 @@
+body {
+	background-color: green;
+	background-image: url(image.png);
+	background-repeat: no-repeat;
+}
+
+.box1 {
+	margin-left: 275px;
+	border: 6px dotted red;
+	background-color: yellow;
+	padding: 0px 10px;
+}

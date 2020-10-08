@@ -1,0 +1,17 @@
+a:visited {
+	color: orange;
+}
+
+a:hover {
+	color: fuchsia;
+	text-decoration: underline
+}
+
+a {
+	padding: 15px;
+	color: green;
+	text-decoration: none;
+	font-family: "HY견명조";
+	font-size: 50px;
+	background-color: black;
+}
